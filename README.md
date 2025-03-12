@@ -8,7 +8,7 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:deniztbleda@gmail.com">
+  <a href="mailto:denizbleda@live.com">
     <img src="https://img.shields.io/badge/email-333333?style=for-the-badge&logo=gmail&logoColor=blue" />
   </a>
   <a href="https://linkedin.com/in/denizbtaskin" target="_blank">
